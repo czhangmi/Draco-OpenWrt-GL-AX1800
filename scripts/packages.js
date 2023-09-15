@@ -33,10 +33,10 @@ module.exports = [
     name: 'luci-app-smartdns',
     desc: 'smartdns DNS防污染',
   },
-  {
-    name: 'luci-app-openclash',
-    desc: 'clash的图形代理软件',
-  },
+//  {
+//    name: 'luci-app-openclash',
+//    desc: 'clash的图形代理软件',
+//  },
   {
     name: 'luci-app-aria2',
     desc: 'aria2下载工具',
@@ -85,10 +85,10 @@ module.exports = [
 //     name: 'luci-app-syncdial',
 //     desc: '多拨虚拟网卡（需要光猫支持多拨）',
 //   },
-//   {
-//     name: 'luci-app-passwall',
-//     desc: 'passwall代理软件',
-//   },
+   {
+     name: 'luci-app-passwall',
+     desc: 'passwall代理软件',
+   },
 //   {
 //     name: 'luci-app-ssr-plus',
 //     desc: 'ssr-plus 代理软件',

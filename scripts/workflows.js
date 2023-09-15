@@ -12,12 +12,12 @@ module.exports = [
     target: 'target_wlan_ap-gl-ax1800',
     official: true,
   },
-  {
-    model: 'axt1800',
-    config: 'config-wlan-ap',
-    target: 'target_wlan_ap-gl-axt1800',
-    official: true,
-  },
+//  {
+//    model: 'axt1800',
+//    config: 'config-wlan-ap',
+//    target: 'target_wlan_ap-gl-axt1800',
+//    official: true,
+//  },
   // {
   //   model: 'ax1800',
   //   config: 'config-wlan-ap-5.4',
